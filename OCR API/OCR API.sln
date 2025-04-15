@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR API", "OCR API\OCR API.csproj", "{06CB008D-50A0-4750-80B6-B66837E6ED3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CB008D-50A0-4750-80B6-B66837E6ED3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CB008D-50A0-4750-80B6-B66837E6ED3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CB008D-50A0-4750-80B6-B66837E6ED3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CB008D-50A0-4750-80B6-B66837E6ED3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704CAF5E-1052-4659-B32E-023761C55CEE}
+	EndGlobalSection
+EndGlobal
